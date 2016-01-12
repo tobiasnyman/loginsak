@@ -8,22 +8,17 @@ background: linear-gradient(to left, #8E0E00 , #1F1C18); /* W3C, IE 10+/ Edge, F
 .login_wind {
 	margin-top: 100px;
 	background-color: Red;
-	width: 30%;
-	height: 30%;
 	text-align: center;
-	margin-right: auto;
-	margin-left: auto;
-	
-	
+	padding-bottom: 20px;
+
 }
 .login_wind li{
 	list-style-type: none;
 	
 }
 .login_wind ul{
-
+	margin: 0;
 }
 .login {
-	width: 250px;
 	
 }
